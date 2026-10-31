@@ -18,6 +18,6 @@ int power(int base, int exponent) {
     int main(){
 
 
-        int answer{power(3,4)};
+        int answer{power(4,2)};
         std::cout << answer;
     }
